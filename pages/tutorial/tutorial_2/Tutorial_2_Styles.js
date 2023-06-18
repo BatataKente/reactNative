@@ -9,7 +9,11 @@ export const styles = StyleSheet.create(
         justifyContent: 'center'
       },
       text: {
-        color: 'white'
+        color: 'white',
+        height: '3%'
+      },
+      buttonContainer: {
+        marginTop: 20
       }
     }
   )
